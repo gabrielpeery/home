@@ -1,0 +1,12 @@
+.sub-nav-options {
+    display: none;
+}
+.sub-nav-child {
+    padding-left: 0.5em;
+}
+.seleceted {
+    display: block;
+}
+.can-hover {
+    display: none;
+}
